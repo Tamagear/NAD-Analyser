@@ -1,0 +1,125 @@
+Displaying Analysis results: 18.04.2022, 19:08:08
+Invalid Data Sets: 0 of 4 (0.00 %)
+Hero Data
++-----------------+---------------+--------+-----+
+| Hero Name       | Pick Rate (%) | Select | See |
++-----------------+---------------+--------+-----+
+| Adler           |      100.000% |      4 |   4 |
+| Aleister        |        0.000% |      0 |   0 |
+| Alex            |        0.000% |      0 |   4 |
+| Alice           |       33.333% |      4 |  12 |
+| Anassai         |        0.000% |      0 |   4 |
+| Anya            |        0.000% |      0 |   0 |
+| Ashe            |       50.000% |      4 |   8 |
+| Astor           |        0.000% |      0 |   4 |
+| Azazel          |       50.000% |      4 |   8 |
+| Bahim           |      100.000% |      8 |   8 |
+| Bevarn          |      100.000% |      4 |   4 |
+| Binkan          |        0.000% |      0 |   8 |
+| Chrystian       |      100.000% |      4 |   4 |
+| Cim'Tame        |      100.000% |      4 |   4 |
+| Dayanim         |        0.000% |      0 |   0 |
+| Ekhthras        |       50.000% |      4 |   8 |
+| Ezekiel         |        0.000% |      0 |   8 |
+| Fey             |        0.000% |      0 |   8 |
+| Goltag          |        0.000% |      0 |   4 |
+| Grimm           |        0.000% |      0 |   8 |
+| Hakenschnabel   |      100.000% |      8 |   8 |
+| Hana            |        0.000% |      0 |   8 |
+| Hemi            |        0.000% |      0 |  12 |
+| Imawero         |        0.000% |      0 |   0 |
+| Iyu             |        0.000% |      0 |  12 |
+| Jale            |      100.000% |      4 |   4 |
+| Jina            |        0.000% |      0 |   8 |
+| Kalerym         |        0.000% |      0 |   0 |
+| Kamina          |        0.000% |      0 |   0 |
+| Kassandra       |        0.000% |      0 |   4 |
+| Kaya            |        0.000% |      0 |   4 |
+| Kazumi          |        0.000% |      0 |   0 |
+| Ken             |      100.000% |      8 |   8 |
+| Lagar           |      100.000% |      4 |   4 |
+| Licht           |        0.000% |      0 |   8 |
+| Lilluza         |        0.000% |      0 |   8 |
+| M-Alice (Dark)  |        0.000% |      4 |   0 |
+| M-Alice (Light) |        0.000% |      0 |   0 |
+| M-Nemesis       |        0.000% |      0 |   0 |
+| Malpadh         |        0.000% |      0 |   0 |
+| Mania           |      100.000% |      4 |   4 |
+| Marin           |        0.000% |      0 |   4 |
+| Mikael          |       50.000% |      4 |   8 |
+| Minnea          |      100.000% |      4 |   4 |
+| Mirror          |      100.000% |      4 |   4 |
+| Mono            |        0.000% |      0 |   0 |
+| Naga            |        0.000% |      0 |   4 |
+| Nemesis         |      100.000% |      4 |   4 |
+| Nomi            |        0.000% |      0 |   4 |
+| Oriphiel        |        0.000% |      0 |   4 |
+| Para            |      100.000% |      4 |   4 |
+| Patricia        |       50.000% |      4 |   8 |
+| Phyllis         |       50.000% |      4 |   8 |
+| Picarus         |        0.000% |      0 |   8 |
+| Quinameh        |      100.000% |      4 |   4 |
+| Rose            |        0.000% |      0 |   4 |
+| Sakurai         |        0.000% |      0 |   0 |
+| Sato            |        0.000% |      0 |   0 |
+| Seki            |        0.000% |      0 |   0 |
+| Sillon          |        0.000% |      0 |   8 |
+| Sympa           |        0.000% |      0 |  24 |
+| Talem           |        0.000% |      0 |   8 |
+| Thagnaek        |      100.000% |      4 |   4 |
+| Tikay           |      100.000% |      4 |   4 |
+| Tili            |        0.000% |      0 |   0 |
+| Toshi           |        0.000% |      0 |   4 |
+| Tril            |       50.000% |      4 |   8 |
+| Wendi           |      100.000% |      4 |   4 |
+| Wiesenbart      |        0.000% |      0 |   0 |
+| Yeramias        |        0.000% |      0 |   4 |
+| Yurey           |      100.000% |      4 |   4 |
+| Zhek            |        0.000% |      0 |  16 |
++-----------------+---------------+--------+-----+
+
+Most used Heroes (%)
+1 : Yurey (100.00 %)
+2 : Wendi (100.00 %)
+3 : Tikay (100.00 %)
+4 : Thagnaek (100.00 %)
+5 : Quinameh (100.00 %)
+
+Least used Heroes (%)
+1 : Aleister (0.00 %)
+2 : Alex (0.00 %)
+3 : Anassai (0.00 %)
+4 : Anya (0.00 %)
+5 : Astor (0.00 %)
+
+Most seen Heroes
+1 : Sympa (24)
+2 : Zhek (16)
+3 : Iyu (12)
+4 : Hemi (12)
+5 : Alice (12)
+
+Least seen Heroes
+1 : Aleister (0)
+2 : Anya (0)
+3 : Dayanim (0)
+4 : Imawero (0)
+5 : Kalerym (0)
+
+Faction popularity
++-------------------------+------------+
+| Faction                 | Popularity |
++-------------------------+------------+
+| Traveller's Association |     31.55% |
+| Kingdom Infantriell     |     42.31% |
+| Gazama Forest Union     |     53.85% |
+| Empire Fractile         |     50.00% |
+| Criminal Underworld     |     42.31% |
+| Heir of the Demon Lord  |      0.00% |
+| Golden Church           |     42.86% |
+| Ravenfury               |      6.25% |
++-------------------------+------------+
+
+Finished analysis in  0:00:00.005000 seconds.
+
+---End Of File---
